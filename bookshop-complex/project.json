@@ -16,6 +16,11 @@
 		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-data.git",
 		"branch": "master"
 	}, {
+		"guid": "bookshop-extension",
+		"type": "git",
+		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-extension.git",
+		"branch": "master"
+	}, {
 		"guid": "bookshop-marketplace",
 		"type": "git",
 		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-marketplace.git",
