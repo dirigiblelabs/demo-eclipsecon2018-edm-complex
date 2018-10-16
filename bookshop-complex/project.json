@@ -21,7 +21,7 @@
 		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-extension.git",
 		"branch": "master"
 	}, {
-		"guid": "bookshop-marketplace",
+		"guid": "bookshop-admin",
 		"type": "git",
 		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-admin.git",
 		"branch": "master"
