@@ -4,6 +4,7 @@
 ## Overview
 Custom bookshop marketplace, enhancing Bookshop EDM base project, with **Store Location** extension view:
 
+![Marketplace](bookshop-complex/img/marketplace.png)
 
 ### Dependencies
 - [bookshop](https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop)
